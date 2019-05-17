@@ -1,0 +1,9 @@
+name: PrisonBreak
+version: 1.0
+main: net.prisontech.prisonbreak.core.PrisonBreakMain
+description: PrisonBreak
+
+commands:
+  prisonbreak:
+    description: prisonbreak
+    usage: /prisonbreak

@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PrisonBreak:jar">
+    <output-path>$USER_HOME$/Desktop/BungeeCord/Server2/plugins</output-path>
+    <root id="archive" name="PrisonBreak.jar">
+      <element id="module-output" name="PrisonBreak" />
+      <element id="module-output" name="Core" />
+      <element id="module-output" name="API" />
+      <element id="module-output" name="Kits" />
+      <element id="module-output" name="Loot" />
+      <element id="module-output" name="BlackMarket" />
+    </root>
+  </artifact>
+</component>

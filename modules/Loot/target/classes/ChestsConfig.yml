@@ -1,0 +1,20 @@
+PrisonBreak:
+  Chests:
+    Locations:
+    - 133;66;262
+    Items:
+      APPLE:
+        Amount: 1
+        Chance: 100
+      DIAMOND_HELMET:
+        Amount: 4
+        Chance: 100
+      DIAMOND:
+        Amount: '5:12'
+        Chance: 50
+      ARROW:
+        Amount: '12:32'
+        Chance: 100
+    Kits:
+      Bedrock:
+        Chance: 100

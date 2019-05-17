@@ -1,0 +1,5 @@
+PrisonBreak:
+  Duration: 300
+  LobbyPort: 25582
+  MainServer: example
+  RegionID: prisonbreak

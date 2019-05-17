@@ -1,0 +1,10 @@
+name: PrisonBreakServer
+version: 1.0
+main: net.prisontech.prisonbreak.server.ServerMain
+depend: [Vault]
+description: PrisonBreakServer
+
+commands:
+  prisonbreak:
+    description: prisonbreak
+    usage: /prisonbreak
